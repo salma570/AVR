@@ -13,7 +13,7 @@
 
 
 
-#During this diploma I created two **main projects**!! 
+# The two **main projects**!! 
 
 ## The software project [Clinic Management System interface](https://github.com/salma570/AVR/tree/main/Final%20C%20project)
 This project is designed to enable a few features in admin and user mode. Like adding,editing patient records, reserve a slot with available doctors, cancel an existing reservation. 
