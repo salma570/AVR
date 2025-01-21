@@ -23,3 +23,6 @@ This project utilizes an external RTC driver, providing four modes: display the 
 
 ### ****For Final HARDWARE PROJECTT***
 We have finally uploaded the simulation On proteus and On AVR kit check out [this link](https://drive.google.com/drive/folders/19Et7o4-xDOgWocfyb3bbgLPTsErMyQ_Z?usp=sharing)
+
+
+@(Amira764)
