@@ -1,7 +1,7 @@
 # This repo is a demo based on the AVR Embedded Systems diploma with IMT_school 
 > AVR interfacing, C programming
 
-During this diploma I created two seperate final projects\
+During this diploma I created two seperate final projects
 
 The software project [Clinic Management System interface](https://github.com/salma570/AVR/tree/main/Final%20C%20project)\
 This project is designed to enable a few features in admin and user mode. Like adding,editing patient records, reserve a slot with available doctors, cancel an existing reservation. 
