@@ -1,4 +1,4 @@
-# This repo is a demo based on the AVR Embedded Systems diploma with IMT_school 
+# This repo is a demo based on the AVR Embedded Systems certificate
 > AVR interfacing, C programming
 
 ## CHECK out!! 
