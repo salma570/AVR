@@ -10,6 +10,6 @@ This project is designed to enable a few features in admin and user mode. Like a
 ### The Final Hardware project:  [Real Time Clock](https://github.com/salma570/IMT_Embedded/tree/main/FinalProject). In collaboration with [Amira Abdelghany](https://github.com/Amira764)
 This project utilizes an external RTC driver, providing four modes: display the current date and time, create alarms, adding stopwatch and countdown features. Additional enhancements were planned to include user interface, data fetching and storage in External EEPROM.
 
-##CHECK out!! 
+## CHECK out!! 
 1. `HAl` && `MCAL_AVR` folders for Drivers code :)
 2. `Assignments_code` folder for Task requirements, running codes and maybe a video Recording for hardware (on kit or on Proteus)😁
