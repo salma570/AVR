@@ -3,7 +3,7 @@
 
 During this diploma I created two seperate final projects\
 
-The software project [Clinic Management System interface]()\
+The software project [Clinic Management System interface](https://github.com/salma570/AVR/tree/main/Final%20C%20project)\
 This project is designed to enable a few features in admin and user mode. Like adding,editing patient records, reserve a slot with available doctors, cancel an existing reservation. 
 
 The Final Hardware project:  [Real Time Clock](https://github.com/salma570/IMT_Embedded/tree/main/FinalProject). In collaboration with [Amira Abdelghany](https://github.com/Amira764)\
